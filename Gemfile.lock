@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    coderay (1.0.5)
+    method_source (0.7.1)
+    pry (0.9.8.2)
+      coderay (~> 1.0.5)
+      method_source (~> 0.7)
+      slop (>= 2.4.4, < 3)
+    pry-doc (0.4.1)
+      pry (>= 0.9.0)
+      yard (~> 0.7.4)
+    slop (2.4.4)
+    yard (0.7.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pry
+  pry-doc
